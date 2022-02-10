@@ -1,0 +1,1 @@
+alert('comando básico linux')
